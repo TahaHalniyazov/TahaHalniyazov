@@ -19,6 +19,7 @@ Frontend Developer focused on building responsive, scalable websites and web app
 ![Vue Router](https://img.shields.io/badge/-Vue_Router-000?style=for-the-badge&logo=vuedotjs)
 ![Pinia](https://img.shields.io/badge/-Pinia-000?style=for-the-badge&logo=pinia)
 ![Vuex](https://img.shields.io/badge/-Vuex-000?style=for-the-badge&logo=vuex)
+![Quasar](https://img.shields.io/badge/-Quasar-000?style=for-the-badge&logo=quasar)
 ![Vitest](https://img.shields.io/badge/-Vitest-000?style=for-the-badge&logo=vitest)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=webpack)
