@@ -3,6 +3,7 @@
 Frontend Developer focused on building responsive, scalable websites and web applications with great user experience.
 
 🌱 Working full-time as a frontend developer and supporting two Vue.js projects part-time in a small studio, focusing on UI/UX and architecture. 
+
 💬 Passionate about clean code, design systems, and effective team collaboration.  
 
 ---
