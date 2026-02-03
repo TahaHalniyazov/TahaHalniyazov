@@ -29,7 +29,7 @@ Frontend Developer (5+ years total / 4+ years commercial) building **fast, respo
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=for-the-badge&logo=vuetify)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![Quasar](https://img.shields.io/badge/-Quasar-000?style=for-the-badge&logo=quasar)
+
 
 ### Tooling / Testing
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
