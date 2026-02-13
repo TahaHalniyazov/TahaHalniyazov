@@ -21,6 +21,7 @@ Frontend Developer (5+ years total / 4+ years commercial) building **fast, respo
 ![Pinia](https://img.shields.io/badge/-Pinia-000?style=for-the-badge&logo=pinia)
 ![Vuex](https://img.shields.io/badge/-Vuex-000?style=for-the-badge&logo=vuex)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
+![PixiJS](https://img.shields.io/badge/-PixiJS-000?style=for-the-badge)
 
 ### UI / Styling
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
@@ -68,7 +69,7 @@ Frontend Developer (5+ years total / 4+ years commercial) building **fast, respo
 ## 🌍 Languages
 
 - English: B1 (working level)  
-- Russian / Turkmen: fluent
+- Russian: fluent
 
 ---
 
