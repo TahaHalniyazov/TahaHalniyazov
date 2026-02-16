@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tahir Halniyazov
 
-Frontend Developer (5+ years total / 4+ years commercial) building **fast, responsive, and scalable** web apps with strong attention to **UX/UI**, clean architecture, and maintainability.
+Frontend Developer (5+ years total) building **fast, responsive, and scalable** web apps with strong attention to **UX/UI**, clean architecture, and maintainability.
 
 - 💼 Working full-time as a Frontend Developer  
 - 🧩 Supporting multiple projects part-time (Vue/Nuxt) in a small studio — UI/UX + architecture  
@@ -49,7 +49,7 @@ Frontend Developer (5+ years total / 4+ years commercial) building **fast, respo
 
 ## 🚀 Featured Work (high level)
 
-- **MENITAP** — large GPS/telematics monitoring platform (7,000+ active objects).  
+- **MENITAP** — large GPS/telematics monitoring platform (15000+ active objects).  
   Focus: stability, UX, data-heavy UI, dashboards, maps, and integrations.
 
 - **JayTap** — real-estate web platform with multi-language support, map-based search, filters, and 360°/VR tours.
@@ -57,14 +57,8 @@ Frontend Developer (5+ years total / 4+ years commercial) building **fast, respo
 
 ---
 
-## 📚 Currently Improving
 
-- Nuxt ecosystem (layers, SSR/SSG patterns, performance)
-- Testing strategy (Vitest + component/integration mindset)
-- Architecture patterns for scalable frontend apps
-- Design systems & consistent UI building blocks
 
----
 
 ## 🌍 Languages
 
